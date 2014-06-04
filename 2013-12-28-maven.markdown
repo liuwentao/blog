@@ -1,0 +1,9 @@
+---
+layout: post
+title: "折腾Maven"
+date: 2013-12-28 14:30
+categories: Dev
+tags: maven
+---
+
+继前些日子折腾`node.js`之后.现在又开始搞`java`了.只能说世事无常了.
